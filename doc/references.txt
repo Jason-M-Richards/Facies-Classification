@@ -1,0 +1,4 @@
+Let's try this for CNN
+
+https://www.r-bloggers.com/convolutional-neural-networks-in-r/
+
